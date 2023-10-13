@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 - Take a sad plot and make it better"
-author: "Hannah Teasdale, Ben Heron and Blair Rafferty - Byte Brigade"
+author: "Hannah Teasdale - Byte Brigade"
 date: "`r Sys.Date()`"
 output: html_document
 ---
